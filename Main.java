@@ -54,7 +54,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) throws Exception {
 		primaryStage.setTitle("Customer");
 		button = new Button();
-		button.setText("Click me");
+		button.setText("Search");
 	}
 		}
 
